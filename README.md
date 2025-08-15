@@ -33,6 +33,7 @@ Used LogisticRegression from scikit-learn
 Model Evaluation
 
 Measured Accuracy, Precision, Recall, and F1-score
+
 📊 Model Performance
 | Metric       | Class 0 | Class 1 | Macro Avg | Weighted Avg |
 | ------------ | ------- | ------- | --------- | ------------ |
@@ -43,6 +44,7 @@ Measured Accuracy, Precision, Recall, and F1-score
 
 
 Confusion Matrix:
+
 [[70,  1],
  [ 1, 70]]
 
