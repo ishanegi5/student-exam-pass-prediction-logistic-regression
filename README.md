@@ -40,9 +40,13 @@ Measured Accuracy, Precision, Recall, and F1-score
 | Recall       | 0.99    | 0.99    | 0.99      | 0.99         |
 | F1-Score     | 0.99    | 0.99    | 0.99      | 0.99         |
 | **Accuracy** | **--**  | **--**  | **0.99**  | **0.99**     |
+
+
 Confusion Matrix:
 [[70,  1],
  [ 1, 70]]
+
+
 🛠 Technologies Used
 
 Python
